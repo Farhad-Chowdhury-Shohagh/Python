@@ -23,7 +23,7 @@ The main goal of this repository is to improve Python programming skills, build 
 
 - **Programming Language:** Python
 - **Version:** Python 3.14
-- **Code Editor:** VS Code 
+- **Code Editor:** Py charm / VS Code 
 - **Platform:** Windows / Linux / macOS
 
 ---
